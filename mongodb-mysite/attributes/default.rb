@@ -1,2 +1,2 @@
-default[:mongodb][:cluster_name] = 'rs0'
-default[:mongodb][:config][:replSet] = 'rs0'
+node.default[:mongodb][:cluster_name] = 'rs0'
+node.default[:mongodb][:config][:replSet] = 'rs0'
