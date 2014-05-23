@@ -1,1 +1,1 @@
-node[:mongodb][:cluster_name] = 'rb0'
+default[:mongodb][:cluster_name] = 'rs0'
