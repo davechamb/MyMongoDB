@@ -3,4 +3,5 @@ include_recipe "mongodb::replicaset"
 
 mongodb_instance "mongodb" do
   replSet rs0
+  cluster_name rs0
 end
