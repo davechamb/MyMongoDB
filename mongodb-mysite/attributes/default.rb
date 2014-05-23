@@ -1,1 +1,1 @@
-node[:mongodb][:cluster_name] = rb0
+node[:mongodb][:cluster_name] = "rb0"
